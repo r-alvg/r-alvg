@@ -1,11 +1,11 @@
 <h1 align="center">Hey there! I'm Rafael Alvarenga 👋 </h1>
-<h3 align="center">🚀 Software Developer | Open Source ♥ | Devops </h3>
+<h3 align="center">🚀 Software Developer </h3>
 <p align="center">
  <a href="mailto:rafaelalvarengadev@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/rafael-alvarenga-0a7988137/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
 
-- 👨‍💻 I’m currently working on back-end development technologies like java, golang and Typescript.
+- 👨‍💻 I’m currently working on back-end development technologies like java, golang and Kotlin.
 - 📚 I’m currently learning more about Backend Architectures
 - 💪🏼 Future Goals: Exploring and Learn new technologies and developing software solutions - Never stop creating new ideas.
 
@@ -15,13 +15,11 @@
 Languages
 
 ![Java](https://img.shields.io/badge/-Java-000000?&color=red&style=flat&logo=java)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?&color=blue&style=flat&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-000000?&color=blue&style=flat&logo=Go)
 
 Frameworks
 
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![Nestjs](https://img.shields.io/badge/-Nestjs-222222?&style=flat&logo=Nestjs&logoColor=red)
 
 Devops
 
